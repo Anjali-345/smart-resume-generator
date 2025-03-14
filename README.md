@@ -8,7 +8,7 @@ https://smart-resume-generator-er3ksmh33mmghxsl57nnkc.streamlit.app/
 
 Documentation file link :
 
-
+https://drive.google.com/file/d/1Q7iiLmVKZPZta97cLsvprAsrKLzX3P3p/view?usp=drive_link
 
 Video Demo Link :
 
